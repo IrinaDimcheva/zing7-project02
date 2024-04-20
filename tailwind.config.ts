@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'space-grotesk': ['Space_Grotesk', 'sans-serif'],
+        'noto-sans': ['Noto_Sans', 'sans-serif'],
+      },
       colors: {
         primary: '#01303A',
         secondary: '#083C2F',

@@ -7,7 +7,7 @@ export default function CallToAction() {
         <h2 className="text-7xl leading-[77px] text-white font-semibold tracking-tight max-sm:text-5xl">
           Готови ли сте да работим заедно?
         </h2>
-        <p className="text-white px-24 py-8 tracking-wider">
+        <p className="text-white px-24 py-8 tracking-wider max-sm:text-sm">
           Оставете вашият телефон и ние ще се свържем с вас, за да отговорим на
           всички въпроси
         </p>
