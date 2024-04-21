@@ -1,6 +1,6 @@
 export default function Content() {
   return (
-    <div className="max-w-screen-md m-auto leading-7 max-sm:text-sm max-md:px-8 flex flex-col gap-12">
+    <div className="max-w-screen-md m-auto leading-7 max-sm:text-sm max-lg:px-8 flex flex-col gap-12">
       <div>
         <h3 className="text-5xl max-md:text-4xl max-sm:text-3xl tracking-tight font-semibold leading-loose mb-6">
           Решения

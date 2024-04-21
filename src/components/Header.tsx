@@ -17,30 +17,65 @@ export default function Header() {
             />
           </button>
         </div>
-        <div className="max-lg:hidden flex justify-between gap-24 max-xl:gap-8">
-          <ul className="flex justify-between items-center gap-8">
+        <div className="max-lg:hidden flex justify-between gap-24 max-xl:gap-10">
+          <ul className="flex justify-between items-center gap-2">
             <li>
-              <a href="/">Начало</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Начало
+              </a>
             </li>
             <li>
-              <a href="/">За нас</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                За нас
+              </a>
             </li>
             <li>
-              <a href="/">Услуги</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Услуги
+              </a>
             </li>
             <li>
-              <a href="/">Цени</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Цени
+              </a>
             </li>
             <li>
-              <a href="/">Как работи</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Как работи
+              </a>
             </li>
             <li>
-              <a href="/">Контакти</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Контакти
+              </a>
             </li>
           </ul>
-          <ul className="flex justify-end items-center gap-8">
+          <ul className="flex justify-end items-center gap-4">
             <li>
-              <a href="/">Профил</a>
+              <a
+                href="/"
+                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+              >
+                Профил
+              </a>
             </li>
             <li>
               <a
