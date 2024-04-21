@@ -22,47 +22,65 @@ export default function Header() {
             <li>
               <a
                 href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
               >
                 Начало
               </a>
             </li>
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-lg border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 За нас
               </a>
             </li>
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 Услуги
               </a>
             </li>
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 Цени
               </a>
             </li>
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 Как работи
               </a>
             </li>
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 Контакти
               </a>
             </li>
           </ul>
           <ul className="flex justify-end items-center gap-8">
             <li>
-              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
+              <a
+                href="/"
+                className="px-3 py-2 rounded-md border-2 border-transparent hover:bg-slate-50 hover:border-primary"
+              >
                 Профил
               </a>
             </li>
             <li>
               <a
                 href="/"
-                className="font-semibold px-6 py-4 rounded-lg border-2 border-secondary hover:bg-secondary hover:text-white transition-all ease-in-out"
+                className="font-semibold px-6 py-4 rounded-lg border-2 border-secondary hover:bg-secondary hover:text-white hover:transition-all ease-in-out"
               >
                 Заявка за пратка
               </a>
