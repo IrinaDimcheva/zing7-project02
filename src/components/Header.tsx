@@ -17,8 +17,8 @@ export default function Header() {
             />
           </button>
         </div>
-        <div className="max-lg:hidden flex justify-between gap-24 max-xl:gap-10">
-          <ul className="flex justify-between items-center gap-2">
+        <div className="max-lg:hidden flex justify-between gap-24 max-xl:gap-8">
+          <ul className="flex justify-between items-center">
             <li>
               <a
                 href="/"
@@ -28,52 +28,34 @@ export default function Header() {
               </a>
             </li>
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 За нас
               </a>
             </li>
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 Услуги
               </a>
             </li>
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 Цени
               </a>
             </li>
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 Как работи
               </a>
             </li>
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 Контакти
               </a>
             </li>
           </ul>
-          <ul className="flex justify-end items-center gap-4">
+          <ul className="flex justify-end items-center gap-8">
             <li>
-              <a
-                href="/"
-                className="px-2.5 py-1.5 rounded-lg hover:bg-slate-50"
-              >
+              <a href="/" className="px-3 py-2 rounded-lg hover:bg-slate-50">
                 Профил
               </a>
             </li>
